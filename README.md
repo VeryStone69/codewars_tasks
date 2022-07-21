@@ -13,5 +13,7 @@
 <ul>
 <li><a href="https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611/javascript">Length of missing array
 </a></li>
+<li><a href="https://www.codewars.com/kata/596f72bbe7cd7296d1000029/javascript">Array Deep Count
+</a></li>
 </ul>
 

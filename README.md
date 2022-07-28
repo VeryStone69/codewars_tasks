@@ -16,5 +16,8 @@
 </a></li>
 <li><a href="https://www.codewars.com/kata/596f72bbe7cd7296d1000029/javascript">Array Deep Count
 </a></li>
+<li><a href="https://www.codewars.com/kata/567ed5db4089538eea000010/javascript">Nuclear Missile Manager
+
+</a></li>
 </ul>
 

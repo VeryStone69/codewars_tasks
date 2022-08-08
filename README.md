@@ -19,5 +19,6 @@
 <li><a href="https://www.codewars.com/kata/596f72bbe7cd7296d1000029/javascript">Array Deep Count</a></li>
 <li><a href="https://www.codewars.com/kata/567ed5db4089538eea000010/javascript">Nuclear Missile Manager</a></li>
 <li><a href="https://www.codewars.com/kata/5351b35ebaeb67f9110012d2/solutions/javascript?filter=me&sort=best_practice">Can you keep a secret?</a></li>
+<li><a href="https://www.codewars.com/kata/526ec46d6f5e255e150002d1/solutions/javascript?filter=me&sort=best_practice">Closures and Scopes</a></li>
 </ul>
 

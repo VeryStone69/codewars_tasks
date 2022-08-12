@@ -22,5 +22,7 @@
 <li><a href="https://www.codewars.com/kata/526ec46d6f5e255e150002d1/solutions/javascript?filter=me&sort=best_practice">Closures and Scopes</a></li>
 <li><a href="https://www.codewars.com/kata/514b92a657cdc65150000006/solutions/javascript?filter=me&sort=best_practice">Multiples of 3 or 5
 </a></li>
+<li><a href="https://www.codewars.com/kata/522551eee9abb932420004a0/solutions/javascript?filter=me&sort=best_practice">N-th Fibonacci
+</a></li>
 </ul>
 

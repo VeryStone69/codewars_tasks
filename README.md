@@ -24,5 +24,6 @@
 </a></li>
 <li><a href="https://www.codewars.com/kata/522551eee9abb932420004a0/solutions/javascript?filter=me&sort=best_practice">N-th Fibonacci
 </a></li>
+<li><a href="https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/javascript">Duplicate Encoder</a></li>
 </ul>
 

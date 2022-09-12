@@ -11,6 +11,8 @@
 <li><a href="https://www.codewars.com/kata/56eb0be52caf798c630013c0/javascript">Unlucky Days</a>
 <li><a href="https://www.codewars.com/kata/539de388a540db7fec000642/javascript">The Coupon Code</a>
 <li><a href="https://www.codewars.com/kata/556cebcf7c58da564a000045/solutions/javascript">Number of Rectangles in a Grid</a>
+<li><a href="https://www.codewars.com/kata/585b1fafe08bae9988000314/javascript">Digits explosion</a>
+
 
 </ul>
 <p>6 kyu</p>

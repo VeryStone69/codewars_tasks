@@ -13,6 +13,7 @@
 <li><a href="https://www.codewars.com/kata/556cebcf7c58da564a000045/solutions/javascript">Number of Rectangles in a Grid</a>
 <li><a href="https://www.codewars.com/kata/585b1fafe08bae9988000314/javascript">Digits explosion</a>
 <li><a href="https://www.codewars.com/kata/54ba84be607a92aa900000f1/javascript">Isograms</a>
+<li><a href="https://www.codewars.com/kata/52fba66badcd10859f00097e/javascript">Disemvowel Trolls</a>
 
 
 </ul>

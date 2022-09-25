@@ -15,6 +15,8 @@
 <li><a href="https://www.codewars.com/kata/54ba84be607a92aa900000f1/javascript">Isograms</a>
 <li><a href="https://www.codewars.com/kata/52fba66badcd10859f00097e/javascript">Disemvowel Trolls</a>
 <li><a href="https://www.codewars.com/kata/554b4ac871d6813a03000035/javascript">Highest and Lowest</a>
+<li><a href="https://www.codewars.com/kata/571640812ad763313600132b/javascript">Upper <body> Strength
+</a>
 
 
 </ul>

@@ -17,7 +17,7 @@
 <li><a href="https://www.codewars.com/kata/554b4ac871d6813a03000035/javascript">Highest and Lowest</a>
 <li><a href="https://www.codewars.com/kata/571640812ad763313600132b/javascript">Upper <body> Strength</a>
 <li><a href="https://www.codewars.com/kata/5624e574ec6034c3a20000e6/javascript">Hamming Distance - Part 1: Binary codes</a>
-
+<li><a href="https://www.codewars.com/kata/579ba41ce298a73aaa000255/javascript">Name That Number!</a>
 
 </ul>
 <p>6 kyu</p>

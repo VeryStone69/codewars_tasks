@@ -18,6 +18,8 @@
 <li><a href="https://www.codewars.com/kata/571640812ad763313600132b/javascript">Upper <body> Strength</a>
 <li><a href="https://www.codewars.com/kata/5624e574ec6034c3a20000e6/javascript">Hamming Distance - Part 1: Binary codes</a>
 <li><a href="https://www.codewars.com/kata/579ba41ce298a73aaa000255/javascript">Name That Number!</a>
+<li><a href="https://www.codewars.com/kata/5259b20d6021e9e14c0010d4">Reverse Words</a>
+
 
 </ul>
 <p>6 kyu</p>

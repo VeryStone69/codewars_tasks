@@ -19,6 +19,7 @@
 <li><a href="https://www.codewars.com/kata/5624e574ec6034c3a20000e6/javascript">Hamming Distance - Part 1: Binary codes</a>
 <li><a href="https://www.codewars.com/kata/579ba41ce298a73aaa000255/javascript">Name That Number!</a>
 <li><a href="https://www.codewars.com/kata/5259b20d6021e9e14c0010d4">Reverse Words</a>
+<li><a href="https://www.codewars.com/kata/586f6741c66d18c22800010a/javascript">Sum of a sequence</a>
 
 
 </ul>

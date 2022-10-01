@@ -38,3 +38,8 @@
 <li><a href="https://www.codewars.com/kata/5574835e3e404a0bed00001b/javascript">Handshake problem</a></li>
 </ul>
 
+<p>5 kyu</p>
+<ul>
+<li><a href="https://www.codewars.com/kata/reviews/52fd3e3460f49cddcf000f1f/groups/623d9ef83742700001732fc1">Number of trailing zeros of N!</a>
+</ul>
+

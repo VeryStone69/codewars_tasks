@@ -36,6 +36,7 @@
 </a></li>
 <li><a href="https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/javascript">Duplicate Encoder</a></li>
 <li><a href="https://www.codewars.com/kata/5574835e3e404a0bed00001b/javascript">Handshake problem</a></li>
+<li><a href="https://www.codewars.com/kata/reviews/534d3637c2059116ab0003c1/groups/63395ee1d251110001c6c80c">Multiplication table</a></li>
 </ul>
 
 <p>5 kyu</p>

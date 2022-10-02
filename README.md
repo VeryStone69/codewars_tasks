@@ -20,6 +20,7 @@
 <li><a href="https://www.codewars.com/kata/579ba41ce298a73aaa000255/javascript">Name That Number!</a>
 <li><a href="https://www.codewars.com/kata/5259b20d6021e9e14c0010d4">Reverse Words</a>
 <li><a href="https://www.codewars.com/kata/586f6741c66d18c22800010a/javascript">Sum of a sequence</a>
+<li><a href="https://www.codewars.com/kata/reviews/54ff35d3c1bad9fbfb00021d/groups/62cc7e80ec296e0001580e60">Vowel Count</a>
 
 
 </ul>

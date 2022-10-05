@@ -39,6 +39,7 @@
 <li><a href="https://www.codewars.com/kata/5574835e3e404a0bed00001b/javascript">Handshake problem</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/534d3637c2059116ab0003c1/groups/63395ee1d251110001c6c80c">Multiplication table</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/523f5d21c841566fde00000c/groups/6339e76c617b760001c96089">Array.diff (JavaScript)</a></li>
+<li><a href="https://www.codewars.com/kata/reviews/58d7686a79e609708a000a13/groups/633dd2a73bc9730001695334">Reverse every other word in the string</a></li>
 </ul>
 
 <p>5 kyu</p>

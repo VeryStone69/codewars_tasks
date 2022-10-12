@@ -41,6 +41,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/523f5d21c841566fde00000c/groups/6339e76c617b760001c96089">Array.diff (JavaScript)</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/58d7686a79e609708a000a13/groups/633dd2a73bc9730001695334">Reverse every other word in the string</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/5d8f8fed88c4e10001cc1346/groups/633f352144afd40001c339f4">Pyramid Array</a></li>
+<li><a href="https://www.codewars.com/kata/reviews/525f50e3b73515a6db000b86/groups/623b77719f12a30001035fe6">Create Phone Number</a></li>
 </ul>
 
 <p>5 kyu</p>

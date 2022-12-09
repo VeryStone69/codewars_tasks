@@ -44,6 +44,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/525f50e3b73515a6db000b86/groups/623b77719f12a30001035fe6">Create Phone Number</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/56002d1c656fe9438f00001b/groups/623b90e019de9f0001483383">Replace With Alphabet Position</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/583a0b20cd2acc1d9900007e/groups/62152bd9504776000175c95d">Find the missing letter</a></li>
+<li><a href="https://www.codewars.com/kata/reviews/5552cffe7abf6e77eb000041/groups/621239723604140001f800ee">Playing with digits</a></li>
 </ul>
 
 <p>5 kyu</p>

@@ -5,6 +5,13 @@
 
 <h2>my current rank:</h2>
 <img src="https://www.codewars.com/users/verystone69/badges/large"/>
+<p>8 kyu</p>
+<ul>
+<li><a href="https://www.codewars.com/kata/reviews/5265326f5fda8eb1160004cb/groups/61d3e81668975c0001d8958b">Convert a Number to a String!</a>
+<li><a href="https://www.codewars.com/kata/reviews/56deebdf6a5c28baa9000031/groups/641d91fe26b289000137d92d">Opposite number</a>
+
+
+</ul>
 <p>7 kyu</p>
 <ul>
 <li><a href="https://www.codewars.com/kata/reviews/5b1ac05c46863ccfe00015af/groups/6249e805be5665000101eb62">My Language Skills</a>
@@ -45,6 +52,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/56002d1c656fe9438f00001b/groups/623b90e019de9f0001483383">Replace With Alphabet Position</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/583a0b20cd2acc1d9900007e/groups/62152bd9504776000175c95d">Find the missing letter</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/5552cffe7abf6e77eb000041/groups/621239723604140001f800ee">Playing with digits</a></li>
+<li><a href="https://www.codewars.com/kata/reviews/5266876c8f4bf2da9b000365/groups/58ba8617343c9ebfc6000513">Who likes it?</a></li>
 </ul>
 
 <p>5 kyu</p>

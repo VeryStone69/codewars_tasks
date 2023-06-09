@@ -29,6 +29,7 @@
 <li><a href="https://www.codewars.com/kata/5259b20d6021e9e14c0010d4">Reverse Words</a>
 <li><a href="https://www.codewars.com/kata/586f6741c66d18c22800010a/javascript">Sum of a sequence</a>
 <li><a href="https://www.codewars.com/kata/reviews/54ff35d3c1bad9fbfb00021d/groups/62cc7e80ec296e0001580e60">Vowel Count</a>
+<li><a href="https://www.codewars.com/kata/reviews/5485f83ed8325edc730001c0/groups/648394988753ae0001beb9c7">Digit*Digit</a>
 
 
 </ul>

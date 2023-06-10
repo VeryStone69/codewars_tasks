@@ -55,6 +55,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/583a0b20cd2acc1d9900007e/groups/62152bd9504776000175c95d">Find the missing letter</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/5552cffe7abf6e77eb000041/groups/621239723604140001f800ee">Playing with digits</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/5266876c8f4bf2da9b000365/groups/58ba8617343c9ebfc6000513">Who likes it?</a></li>
+<li><a href="https://www.codewars.com/kata/reviews/56257b1427e918467e000174/groups/64846a3d3dad1a00019756bf">Find the odd int</a></li>
 </ul>
 
 <p>5 kyu</p>

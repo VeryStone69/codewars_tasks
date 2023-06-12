@@ -4,7 +4,7 @@
 </p>
 
 <h2>my current rank:</h2>
-<img src="https://www.codewars.com/users/VeryStone69/badges/large"/>
+<img src="https://www.codewars.com/users/verystone69/badges/large"/>
 <p>8 kyu</p>
 <ul>
 <li><a href="https://www.codewars.com/kata/reviews/5265326f5fda8eb1160004cb/groups/61d3e81668975c0001d8958b">Convert a Number to a String!</a>

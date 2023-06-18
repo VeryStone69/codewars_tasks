@@ -31,6 +31,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/54ff35d3c1bad9fbfb00021d/groups/62cc7e80ec296e0001580e60">Vowel Count</a>
 <li><a href="https://www.codewars.com/kata/reviews/5485f83ed8325edc730001c0/groups/648394988753ae0001beb9c7">Digit*Digit</a>
 <li><a href="https://www.codewars.com/kata/reviews/5667eafcfde9ebbd5100002e/groups/57943eddc38ec252bb0004b9">Mumbling</a>
+<li><a href="https://www.codewars.com/kata/reviews/554f53f79e5642b6850000ad/groups/648ef5c0f32efd0001735c21">Complementary DNA</a>
 
 </ul>
 <p>6 kyu</p>

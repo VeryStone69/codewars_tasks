@@ -33,6 +33,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/5667eafcfde9ebbd5100002e/groups/57943eddc38ec252bb0004b9">Mumbling</a>
 <li><a href="https://www.codewars.com/kata/reviews/554f53f79e5642b6850000ad/groups/648ef5c0f32efd0001735c21">Complementary DNA</a>
 <li><a href="https://www.codewars.com/kata/558fc85d8fd1938afb000014/solutions/javascript?filter=me&sort=best_practice&invalids=false">Sum of two lowest positive integers</a>
+<li><a href="https://www.codewars.com/kata/55f2b110f61eb01779000053/solutions/javascript?filter=me&sort=best_practice&invalids=false">Beginner Series #3 Sum of Numbers</a>
 </ul>
 <p>6 kyu</p>
 <ul>

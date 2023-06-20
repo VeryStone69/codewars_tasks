@@ -11,7 +11,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/56deebdf6a5c28baa9000031/groups/641d91fe26b289000137d92d">Opposite number</a>
 <li><a href="https://www.codewars.com/kata/reviews/5715eaf87cf4f3befe00002e/groups/5f78e7537d74a900015f3b70">Sum of positive</a>
 <li><a href="https://www.codewars.com/kata/reviews/57eadb85cd143f4c9c0000a5/groups/5817a3d06288546631000040">Abbreviate a Two Word Name</a>
-
+<li><a href="https://www.codewars.com/kata/reviews/5545f1150240a711650000c6/groups/554e9802d002991020000103">Is n divisible by x and y?</a>
 
 </ul>
 <p>7 kyu</p>

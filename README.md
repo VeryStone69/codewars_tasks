@@ -13,6 +13,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/57eadb85cd143f4c9c0000a5/groups/5817a3d06288546631000040">Abbreviate a Two Word Name</a>
 <li><a href="https://www.codewars.com/kata/reviews/5545f1150240a711650000c6/groups/554e9802d002991020000103">Is n divisible by x and y?</a>
 <li><a href="https://www.codewars.com/kata/reviews/566770a5e2aefaf7b000002d/groups/5d48f66d2447aa000172d589">A Needle in the Haystack</a>
+<li><a href="https://www.codewars.com/kata/reviews/555086ff587c4e3a7e000095/groups/57b5bee1db5b3da2ec0001fb">Opposites Attract</a>
 
 </ul>
 <p>7 kyu</p>

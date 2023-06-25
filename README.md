@@ -14,6 +14,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/5545f1150240a711650000c6/groups/554e9802d002991020000103">Is n divisible by x and y?</a>
 <li><a href="https://www.codewars.com/kata/reviews/566770a5e2aefaf7b000002d/groups/5d48f66d2447aa000172d589">A Needle in the Haystack</a>
 <li><a href="https://www.codewars.com/kata/reviews/555086ff587c4e3a7e000095/groups/57b5bee1db5b3da2ec0001fb">Opposites Attract</a>
+<li><a href="https://www.codewars.com/kata/reviews/55fa902836589109b40000af/groups/6498a2b4d263330001c8134a">Beginner Series #1 School Paperwork Clock</a>
 <li><a href="https://www.codewars.com/kata/reviews/55fa41c53658911447000032/groups/56521dfdd4da7a4dc80000a9">Beginner Series #2 Clock</a>
 </ul>
 <p>7 kyu</p>

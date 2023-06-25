@@ -40,6 +40,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/51f2d1cafc9c0f745c000380/groups/575cd0b881ce1de7af00013f">String ends with?</a>
 <li><a href="https://www.codewars.com/kata/reviews/5418ac811d3bf3216b000236/groups/6494a6cf104eb90001d74690">Credit Card Mask</a>
 <li><a href="https://www.codewars.com/kata/reviews/5656bd079c771d9d4e00001b/groups/565891e1864f843574000034">Two to One</a>
+<li><a href="https://www.codewars.com/kata/reviews/56541bb62a8c458476000040/groups/64989cdc0983410001541d54">Printer Errors</a>
 </ul> 
 <p>6 kyu</p>
 <ul>

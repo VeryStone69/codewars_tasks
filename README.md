@@ -42,6 +42,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/5418ac811d3bf3216b000236/groups/6494a6cf104eb90001d74690">Credit Card Mask</a>
 <li><a href="https://www.codewars.com/kata/reviews/5656bd079c771d9d4e00001b/groups/565891e1864f843574000034">Two to One</a>
 <li><a href="https://www.codewars.com/kata/reviews/56541bb62a8c458476000040/groups/64989cdc0983410001541d54">Printer Errors</a>
+<li><a href="https://www.codewars.com/kata/reviews/5506c16fa11c0a0eef0000a3/groups/58d58a77a636b6826a000e85">Categorize New Member </a>
 </ul> 
 <p>6 kyu</p>
 <ul>

@@ -43,6 +43,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/5656bd079c771d9d4e00001b/groups/565891e1864f843574000034">Two to One</a>
 <li><a href="https://www.codewars.com/kata/reviews/56541bb62a8c458476000040/groups/64989cdc0983410001541d54">Printer Errors</a>
 <li><a href="https://www.codewars.com/kata/reviews/5506c16fa11c0a0eef0000a3/groups/58d58a77a636b6826a000e85">Categorize New Member </a>
+<li><a href="https://www.codewars.com/kata/reviews/55f8abdcb692958d4800000f/groups/596231bca22617aa57000142">Regex validate PIN code</a>
 </ul> 
 <p>6 kyu</p>
 <ul>

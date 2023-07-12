@@ -16,6 +16,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/555086ff587c4e3a7e000095/groups/57b5bee1db5b3da2ec0001fb">Opposites Attract</a>
 <li><a href="https://www.codewars.com/kata/reviews/55fa902836589109b40000af/groups/6498a2b4d263330001c8134a">Beginner Series #1 School Paperwork Clock</a>
 <li><a href="https://www.codewars.com/kata/reviews/55fa41c53658911447000032/groups/56521dfdd4da7a4dc80000a9">Beginner Series #2 Clock</a>
+<li><a href="https://www.codewars.com/kata/reviews/5865f9bd2ffb9c2e2f0013af/groups/64af0865a2181600010954b1">Calculate average</a>
 </ul>
 <p>7 kyu</p>
 <ul>

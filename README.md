@@ -49,6 +49,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/5506c16fa11c0a0eef0000a3/groups/58d58a77a636b6826a000e85">Categorize New Member </a>
 <li><a href="https://www.codewars.com/kata/reviews/55f8abdcb692958d4800000f/groups/596231bca22617aa57000142">Regex validate PIN code</a>
 <li><a href="https://www.codewars.com/kata/reviews/563b684ec41198b5920000ea/groups/62987f497ad3f10001de8fff">Growth of a Population</a>
+<li><a href="https://www.codewars.com/kata/reviews/5724229c8c7e05a17400004e/groups/64bcf1b9c68efa0001bda25a">Sum of Multiples</a>
 </ul> 
 <p>6 kyu</p>
 <ul>

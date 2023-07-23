@@ -22,6 +22,7 @@
 </ul>
 <p>7 kyu</p>
 <ul>
+<li><a href="https://www.codewars.com/kata/reviews/602efa574781f60001fabf89/groups/64bceb2e37b7b80001bfb12e">Two numbers are positive</a>
 <li><a href="https://www.codewars.com/kata/reviews/5b1ac05c46863ccfe00015af/groups/6249e805be5665000101eb62">My Language Skills</a>
 <li><a href="https://www.codewars.com/kata/56eb0be52caf798c630013c0/javascript">Unlucky Days</a>
 <li><a href="https://www.codewars.com/kata/539de388a540db7fec000642/javascript">The Coupon Code</a>

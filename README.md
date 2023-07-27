@@ -51,6 +51,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/563b684ec41198b5920000ea/groups/62987f497ad3f10001de8fff">Growth of a Population</a>
 <li><a href="https://www.codewars.com/kata/reviews/5724229c8c7e05a17400004e/groups/64bcf1b9c68efa0001bda25a">Sum of Multiples </a>
 <li><a href="https://www.codewars.com/kata/reviews/582ab0ebd0a3a7ca08000018/groups/587631f3b8168af65f00218e">Keep the Order</a>
+<li><a href="https://www.codewars.com/kata/reviews/564a2abfece0858a7100000f/groups/64c22d5336d9b90001647c24">Number of People in the Bus</a>
 </ul> 
 <p>6 kyu</p>
 <ul>

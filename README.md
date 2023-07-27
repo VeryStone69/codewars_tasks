@@ -31,7 +31,7 @@
 <li><a href="https://www.codewars.com/kata/54ba84be607a92aa900000f1/javascript">Isograms</a>
 <li><a href="https://www.codewars.com/kata/52fba66badcd10859f00097e/javascript">Disemvowel Trolls</a>
 <li><a href="https://www.codewars.com/kata/554b4ac871d6813a03000035/javascript">Highest and Lowest</a>
-<li><a href="https://www.codewars.com/kata/571640812ad763313600132b/javascript">Upper <body> Strength</a>
+<li><a href="https://www.codewars.com/kata/571640812ad763313600132b/javascript">Upper Strength</a>
 <li><a href="https://www.codewars.com/kata/5624e574ec6034c3a20000e6/javascript">Hamming Distance - Part 1: Binary codes</a>
 <li><a href="https://www.codewars.com/kata/579ba41ce298a73aaa000255/javascript">Name That Number!</a>
 <li><a href="https://www.codewars.com/kata/5259b20d6021e9e14c0010d4">Reverse Words</a>
@@ -50,6 +50,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/55f8abdcb692958d4800000f/groups/596231bca22617aa57000142">Regex validate PIN code</a>
 <li><a href="https://www.codewars.com/kata/reviews/563b684ec41198b5920000ea/groups/62987f497ad3f10001de8fff">Growth of a Population</a>
 <li><a href="https://www.codewars.com/kata/reviews/5724229c8c7e05a17400004e/groups/64bcf1b9c68efa0001bda25a">Sum of Multiples </a>
+<li><a href="https://www.codewars.com/kata/reviews/582ab0ebd0a3a7ca08000018/groups/587631f3b8168af65f00218e">Keep the Order</a>
 </ul> 
 <p>6 kyu</p>
 <ul>

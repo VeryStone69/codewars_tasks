@@ -20,6 +20,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/57cc9785e850d466050000a7/groups/57cccde5d542d3148f0003d6">You only need one - Beginner</a>
 <li><a href="https://www.codewars.com/kata/reviews/5837111123bee00d630000be/groups/5839d9ce171f3aac8700020f">Simple multiplication</a>
 <li><a href="https://www.codewars.com/kata/reviews/56aa512a19a59b21ff000034/groups/64c6becb94952d0001375414">Regex count lowercase letters</a>
+<li><a href="https://www.codewars.com/kata/reviews/580a1bd1b56dcf80b2000031/groups/580aa0729f1fb23551000067">Remove duplicates from list</a>
 </ul>
 <p>7 kyu</p>
 <ul>

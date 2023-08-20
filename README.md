@@ -82,6 +82,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/5266876c8f4bf2da9b000365/groups/58ba8617343c9ebfc6000513">Who likes it?</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/56257b1427e918467e000174/groups/64846a3d3dad1a00019756bf">Find the odd int</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/541c8b5e7e4b4c61e2000149/groups/6484c746a1178b00012a50cf">Sum of Digits</a></li>
+<li><a href="https://www.codewars.com/kata/reviews/55bf027550b2a3df3700005b/groups/64e26acf9fed9d0001aa0af8">Persistent Bugger</a></li>
 </ul>
 
 <p>5 kyu</p>

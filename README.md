@@ -22,6 +22,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/56aa512a19a59b21ff000034/groups/64c6becb94952d0001375414">Regex count lowercase letters</a>
 <li><a href="https://www.codewars.com/kata/reviews/580a1bd1b56dcf80b2000031/groups/580aa0729f1fb23551000067">Remove duplicates from list</a>
 <li><a href="https://www.codewars.com/kata/reviews/559375e5091cf8e47d00005a/groups/62a6530b98eb29000148775a">Welcome to the City</a>
+<li><a href="https://www.codewars.com/kata/reviews/54531473ef2fe4146700028b/groups/64eaf5f2989be30001c86bcb">NATO Phonetic Alphabet</a>
 </ul>
 <p>7 kyu</p>
 <ul>

@@ -62,6 +62,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/56576f8846bfd9710b00003c/groups/64f85bf2867587000167c9d7">Running out of space</a>
 <li><a href="https://www.codewars.com/kata/reviews/5af4343b8821435343001430/groups/64fb67b3b048a30001ddcc51">When do leap years occur here?</a>
 <li><a href="https://www.codewars.com/kata/reviews/57856f74bf6a1ede3f000406/groups/57865f18a1b8d57a8d002005">Ones and Zeros</a>
+<li><a href="https://www.codewars.com/kata/reviews/5747671c27d5b9dc65000153/groups/650aa55c1f0ec1000102defa">noobCode 04: HOT SINGLES...</a>
 </ul> 
 <p>6 kyu</p>
 <ul>

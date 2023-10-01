@@ -66,6 +66,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/5747671c27d5b9dc65000153/groups/650aa55c1f0ec1000102defa">noobCode 04: HOT SINGLES...</a>
 <li><a href="https://www.codewars.com/kata/reviews/57100ac4134efba225000021/groups/6510083a2cf8360001825a1d">Number climber</a>
 <li><a href="https://www.codewars.com/kata/reviews/592e3556b84277e75b000889/groups/65152d1141bb1a00019d4eb2">Number of Decimal Digits</a>
+<li><a href="https://www.codewars.com/kata/reviews/558dd9d24bcfc35bfa0000aa/groups/5e41025c76126b000116e78e">Find The Duplicated Number in a Consecutive Unsorted List </a>
 </ul> 
 <p>6 kyu</p>
 <ul>

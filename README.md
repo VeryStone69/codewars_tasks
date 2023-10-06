@@ -68,6 +68,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/592e3556b84277e75b000889/groups/65152d1141bb1a00019d4eb2">Number of Decimal Digits</a>
 <li><a href="https://www.codewars.com/kata/reviews/558dd9d24bcfc35bfa0000aa/groups/5e41025c76126b000116e78e">Find The Duplicated Number in a Consecutive Unsorted List </a>
 <li><a href="https://www.codewars.com/kata/reviews/559595019987562910000014/groups/651e6943b60a5a0001d80697">The highest profit wins!</a>
+<li><a href="https://www.codewars.com/kata/reviews/563da7533a77d3f16a000033/groups/652066342a657800019a7052">Remove the minimum</a>
 </ul> 
 <p>6 kyu</p>
 <ul>

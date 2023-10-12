@@ -25,6 +25,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/54531473ef2fe4146700028b/groups/64eaf5f2989be30001c86bcb">NATO Phonetic Alphabet</a>
 <li><a href="https://www.codewars.com/kata/reviews/563b814cc41198306a000132/groups/64f23248943404000117b8af">Stringy Strings</a>
 <li><a href="https://www.codewars.com/kata/reviews/57a7775dc164c3db8b00003e/groups/650c10cdc4627c0001b6bf3f">Price of Mangoes</a>
+<li><a href="https://www.codewars.com/kata/reviews/578e47f1f50c0dcc2c000111/groups/65277c57c5c19100017f261d">Count of positives / sum of negatives </a>
 </ul>
 <p>7 kyu</p>
 <ul>

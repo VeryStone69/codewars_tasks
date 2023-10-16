@@ -98,8 +98,8 @@
 <li><a href="https://www.codewars.com/kata/reviews/541c8b5e7e4b4c61e2000149/groups/6484c746a1178b00012a50cf">Sum of Digits</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/55bf027550b2a3df3700005b/groups/64e26acf9fed9d0001aa0af8">Persistent Bugger</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/54c69b063962fac66a0001ab/groups/650605e54b20b90001b16dc1">Counting Duplicates </a></li>
-<li><a href=""></a></li>
 <li><a href="https://www.codewars.com/kata/reviews/55c8a1ae7effa86f9d000091/groups/56711aae09c1e06f98000002">Your order, please</a></li>
+<li><a href="https://www.codewars.com/kata/reviews/578aa7af466bb46ce600092d/groups/652cfbaae2c79c00019e934d">Sort the odd</a></li>
 </ul>
 
 <p>5 kyu</p>

@@ -27,6 +27,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/57a7775dc164c3db8b00003e/groups/650c10cdc4627c0001b6bf3f">Price of Mangoes</a>
 <li><a href="https://www.codewars.com/kata/reviews/578e47f1f50c0dcc2c000111/groups/65277c57c5c19100017f261d">Count of positives / sum of negatives </a>
 <li><a href="https://www.codewars.com/kata/reviews/577aec3cb9498e1aed00009a/groups/652967de805c4c00011c92ee">Find Maximum and Minimum Values of a List </a>
+<li><a href="https://www.codewars.com/kata/reviews/57cfe3e5e01033d62200001b/groups/58493f83e11dc93152000ffa">Sort and Star</a>
 </ul>
 <p>7 kyu</p>
 <ul>

@@ -28,6 +28,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/578e47f1f50c0dcc2c000111/groups/65277c57c5c19100017f261d">Count of positives / sum of negatives </a>
 <li><a href="https://www.codewars.com/kata/reviews/577aec3cb9498e1aed00009a/groups/652967de805c4c00011c92ee">Find Maximum and Minimum Values of a List </a>
 <li><a href="https://www.codewars.com/kata/reviews/57cfe3e5e01033d62200001b/groups/58493f83e11dc93152000ffa">Sort and Star</a>
+<li><a href="https://www.codewars.com/kata/reviews/57eaeb9f78748ff92a00000b/groups/654002dddda7cc00011027c9">Sum Mixed Array</a>
 </ul>
 <p>7 kyu</p>
 <ul>

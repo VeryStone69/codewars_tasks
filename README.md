@@ -103,6 +103,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/54c69b063962fac66a0001ab/groups/650605e54b20b90001b16dc1">Counting Duplicates </a></li>
 <li><a href="https://www.codewars.com/kata/reviews/55c8a1ae7effa86f9d000091/groups/56711aae09c1e06f98000002">Your order, please</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/578aa7af466bb46ce600092d/groups/652cfbaae2c79c00019e934d">Sort the odd</a></li>
+<li><a href="https://www.codewars.com/kata/reviews/57eb9ced304737a50f00000d/groups/6542009f507e0600013f7a25">Highest Scoring Word</a></li>
 </ul>
 
 <p>5 kyu</p>

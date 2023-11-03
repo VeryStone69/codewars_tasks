@@ -5,7 +5,8 @@
 
 <h2>my current rank:</h2>
 <img src="https://www.codewars.com/users/verystone69/badges/large"/>
-<p>8 kyu</p>
+<details>
+<summary>8 kyu</summary>
 <ul>
 <li><a href="https://www.codewars.com/kata/reviews/5265326f5fda8eb1160004cb/groups/61d3e81668975c0001d8958b">Convert a Number to a String!</a>
 <li><a href="https://www.codewars.com/kata/reviews/56deebdf6a5c28baa9000031/groups/641d91fe26b289000137d92d">Opposite number</a>
@@ -30,7 +31,10 @@
 <li><a href="https://www.codewars.com/kata/reviews/57cfe3e5e01033d62200001b/groups/58493f83e11dc93152000ffa">Sort and Star</a>
 <li><a href="https://www.codewars.com/kata/reviews/57eaeb9f78748ff92a00000b/groups/654002dddda7cc00011027c9">Sum Mixed Array</a>
 </ul>
-<p>7 kyu</p>
+</details>
+
+<details>
+<summary>7 kyu</summary>
 <ul>
 <li><a href="https://www.codewars.com/kata/reviews/602efa574781f60001fabf89/groups/64bceb2e37b7b80001bfb12e">Two numbers are positive</a>
 <li><a href="https://www.codewars.com/kata/reviews/5b1ac05c46863ccfe00015af/groups/6249e805be5665000101eb62">My Language Skills</a>
@@ -74,8 +78,11 @@
 <li><a href="https://www.codewars.com/kata/reviews/559595019987562910000014/groups/651e6943b60a5a0001d80697">The highest profit wins!</a>
 <li><a href="https://www.codewars.com/kata/reviews/563da7533a77d3f16a000033/groups/652066342a657800019a7052">Remove the minimum</a>
 <li><a href="https://www.codewars.com/kata/reviews/57cc981de850d466050000b0/groups/6538abd690c7c00001120382">Small enough?</a>
+<li><a href="https://www.codewars.com/kata/reviews/57eea7b88ead0b8d8d0000f7/groups/62e871943475120001844df6">Flatten and sort an array</a>
 </ul> 
-<p>6 kyu</p>
+</details>
+<details>
+<summary>6 kyu</summary>
 <ul>
 <li><a href="https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611/javascript">Length of missing array</a></li>
 <li><a href="https://www.codewars.com/kata/596f72bbe7cd7296d1000029/javascript">Array Deep Count</a></li>
@@ -105,11 +112,13 @@
 <li><a href="https://www.codewars.com/kata/reviews/578aa7af466bb46ce600092d/groups/652cfbaae2c79c00019e934d">Sort the odd</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/57eb9ced304737a50f00000d/groups/6542009f507e0600013f7a25">Highest Scoring Word</a></li>
 </ul>
-
-<p>5 kyu</p>
+</details>
+<details>
+<summary>5 kyu</summary>
 <ul>
 <li><a href="https://www.codewars.com/kata/reviews/52fd3e3460f49cddcf000f1f/groups/623d9ef83742700001732fc1">Number of trailing zeros of N!</a>
 <li><a href="https://www.codewars.com/kata/reviews/52597aa56021e91c93000cb3/groups/6485be485d003e0001f3c296">Moving Zeros To The End </a>
 <li><a href="https://www.codewars.com/kata/reviews/52bc74d4ac05d0945d000551/groups/6486330de253810001125392">First non-repeating character</a>
 </ul>
+</details>
 

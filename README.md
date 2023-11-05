@@ -30,6 +30,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/577aec3cb9498e1aed00009a/groups/652967de805c4c00011c92ee">Find Maximum and Minimum Values of a List </a>
 <li><a href="https://www.codewars.com/kata/reviews/57cfe3e5e01033d62200001b/groups/58493f83e11dc93152000ffa">Sort and Star</a>
 <li><a href="https://www.codewars.com/kata/reviews/57eaeb9f78748ff92a00000b/groups/654002dddda7cc00011027c9">Sum Mixed Array</a>
+<li><a href="https://www.codewars.com/kata/reviews/5c8bfbbf3b8ec2000116c7cb/groups/6547a898b2effa00012bd68d">A wolf in sheep's clothing</a>
 </ul>
 </details>
 

@@ -111,6 +111,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/55c8a1ae7effa86f9d000091/groups/56711aae09c1e06f98000002">Your order, please</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/578aa7af466bb46ce600092d/groups/652cfbaae2c79c00019e934d">Sort the odd</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/57eb9ced304737a50f00000d/groups/6542009f507e0600013f7a25">Highest Scoring Word</a></li>
+<li><a href="https://www.codewars.com/kata/reviews/585d85846aa5e61d580004cd/groups/6547a199fb145c000126c139">Find the unique number</a></li>
 </ul>
 </details>
 <details>
@@ -121,4 +122,3 @@
 <li><a href="https://www.codewars.com/kata/reviews/52bc74d4ac05d0945d000551/groups/6486330de253810001125392">First non-repeating character</a>
 </ul>
 </details>
-

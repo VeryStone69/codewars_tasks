@@ -33,6 +33,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/5c8bfbbf3b8ec2000116c7cb/groups/6547a898b2effa00012bd68d">A wolf in sheep's clothing</a>
 <li><a href="https://www.codewars.com/kata/reviews/5672a998edcb875b34000076/groups/6068782a202d4f0001b5b179">Rock Paper Scissors!</a>
 <li><a href="https://www.codewars.com/kata/reviews/58782e3ad166c74687000408/groups/5a2a5eadd1b6089c05001750">Will there be enough space?</a>
+<li><a href="https://www.codewars.com/kata/reviews/57878746fdd4269dfc00031a/groups/6555f71c2113d200010420b3">Sum without highest and lowest number</a>
 </ul>
 </details>
 

@@ -118,6 +118,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/578aa7af466bb46ce600092d/groups/652cfbaae2c79c00019e934d">Sort the odd</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/57eb9ced304737a50f00000d/groups/6542009f507e0600013f7a25">Highest Scoring Word</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/585d85846aa5e61d580004cd/groups/6547a199fb145c000126c139">Find the unique number</a></li>
+<li><a href="https://www.codewars.com/kata/reviews/52c31f8e6605bcc646000085/groups/608af526f2e24100012c0b31">Two Sum</a></li>
 </ul>
 </details>
 <details>

@@ -86,6 +86,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/563da7533a77d3f16a000033/groups/652066342a657800019a7052">Remove the minimum</a>
 <li><a href="https://www.codewars.com/kata/reviews/57cc981de850d466050000b0/groups/6538abd690c7c00001120382">Small enough?</a>
 <li><a href="https://www.codewars.com/kata/reviews/57eea7b88ead0b8d8d0000f7/groups/62e871943475120001844df6">Flatten and sort an array</a>
+<li><a href="https://www.codewars.com/kata/reviews/583f1c66d622c07b55000059/groups/5c01b111bf0ea728f5004068">Make a function that does arithmetic</a>
 </ul> 
 </details>
 <details>

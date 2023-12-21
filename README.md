@@ -122,6 +122,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/57eb9ced304737a50f00000d/groups/6542009f507e0600013f7a25">Highest Scoring Word</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/585d85846aa5e61d580004cd/groups/6547a199fb145c000126c139">Find the unique number</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/52c31f8e6605bcc646000085/groups/608af526f2e24100012c0b31">Two Sum</a></li>
+<li><a href="https://www.codewars.com/kata/reviews/565349bca24428f2870000a9/groups/6584a2f21121e1000137d9a0">Find The Parity Outlier</a></li>
 </ul>
 </details>
 <details>

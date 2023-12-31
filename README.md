@@ -91,6 +91,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/583f1c66d622c07b55000059/groups/5c01b111bf0ea728f5004068">Make a function that does arithmetic</a>
 <li><a href="https://www.codewars.com/kata/reviews/57212cbd3193d5127d000007/groups/6588096f9008080001d1cf5b">Dinner Plans</a>
 <li><a href="https://www.codewars.com/kata/reviews/539ee47845b3c401d0000280/groups/658c8ffa0f792500015dd482">Find the capitals</a>
+<li><a href="https://www.codewars.com/kata/reviews/584094d3f1ad4080e90000bd/groups/6591ba710dd28c00018ba9e3">Gryffindor vs Slytherin Quidditch Game</a>
 </ul> 
 </details>
 <details>

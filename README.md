@@ -40,6 +40,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/559ac78360f0be07c200005c/groups/559d543feafd01fb0f0000dd">Name Shuffler</a>
 <li><a href="https://www.codewars.com/kata/reviews/5644257855d0e4439900006c/groups/6587feee602dd30001c65a57">How good are you really?</a>
 <li><a href="https://www.codewars.com/kata/reviews/551383009c58f722fc00033c/groups/595cb8759092b1e8e8000109">Count by X</a>
+<li><a href="https://www.codewars.com/kata/reviews/5771a1dbcf2b19f0f60001fd/groups/65b967f3d314fa000138852b">Removing Elements</a>
 
 </ul>
 </details>

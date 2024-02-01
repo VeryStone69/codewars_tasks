@@ -41,6 +41,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/5644257855d0e4439900006c/groups/6587feee602dd30001c65a57">How good are you really?</a>
 <li><a href="https://www.codewars.com/kata/reviews/551383009c58f722fc00033c/groups/595cb8759092b1e8e8000109">Count by X</a>
 <li><a href="https://www.codewars.com/kata/reviews/5771a1dbcf2b19f0f60001fd/groups/65b967f3d314fa000138852b">Removing Elements</a>
+<li><a href="https://www.codewars.com/kata/reviews/53dc581021a252c4890000bc/groups/65bbeb11d423500001d0b535">Sum Arrays</a>
 
 </ul>
 </details>

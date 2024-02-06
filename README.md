@@ -108,10 +108,8 @@
 <li><a href="https://www.codewars.com/kata/567ed5db4089538eea000010/javascript">Nuclear Missile Manager</a></li>
 <li><a href="https://www.codewars.com/kata/5351b35ebaeb67f9110012d2/solutions/javascript?filter=me&sort=best_practice">Can you keep a secret?</a></li>
 <li><a href="https://www.codewars.com/kata/526ec46d6f5e255e150002d1/solutions/javascript?filter=me&sort=best_practice">Closures and Scopes</a></li>
-<li><a href="https://www.codewars.com/kata/514b92a657cdc65150000006/solutions/javascript?filter=me&sort=best_practice">Multiples of 3 or 5
-</a></li>
-<li><a href="https://www.codewars.com/kata/522551eee9abb932420004a0/solutions/javascript?filter=me&sort=best_practice">N-th Fibonacci
-</a></li>
+<li><a href="https://www.codewars.com/kata/514b92a657cdc65150000006/solutions/javascript?filter=me&sort=best_practice">Multiples of 3 or 5</a></li>
+<li><a href="https://www.codewars.com/kata/522551eee9abb932420004a0/solutions/javascript?filter=me&sort=best_practice">N-th Fibonacci</a></li>
 <li><a href="https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/javascript">Duplicate Encoder</a></li>
 <li><a href="https://www.codewars.com/kata/5574835e3e404a0bed00001b/javascript">Handshake problem</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/534d3637c2059116ab0003c1/groups/63395ee1d251110001c6c80c">Multiplication table</a></li>
@@ -143,5 +141,6 @@
 <li><a href="https://www.codewars.com/kata/reviews/52597aa56021e91c93000cb3/groups/6485be485d003e0001f3c296">Moving Zeros To The End </a>
 <li><a href="https://www.codewars.com/kata/reviews/52bc74d4ac05d0945d000551/groups/6486330de253810001125392">First non-repeating character</a>
 <li><a href="https://www.codewars.com/kata/reviews/550be338742fda753e000a03/groups/654caa75d1682a000191527c">Rot13</a>
+<li><a href="https://www.codewars.com/kata/reviews/525f3eda17c7cd9f9e000b3c/groups/65c295569b585b0001c7a162">Calculating with Functions</a>
 </ul>
 </details>

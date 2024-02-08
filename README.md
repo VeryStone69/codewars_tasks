@@ -98,6 +98,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/539ee47845b3c401d0000280/groups/658c8ffa0f792500015dd482">Find the capitals</a>
 <li><a href="https://www.codewars.com/kata/reviews/584094d3f1ad4080e90000bd/groups/6591ba710dd28c00018ba9e3">Gryffindor vs Slytherin Quidditch Game</a>
 <li><a href="https://www.codewars.com/kata/reviews/5b18eab58c63628315000936/groups/65bf6c613c564f0001e2d271">Fix string case</a>
+<li><a href="https://www.codewars.com/kata/reviews/5174a68231d5270475000005/groups/55c28ba76e128f601f0000b4">Sort Numbers</a>
 </ul> 
 </details>
 <details>

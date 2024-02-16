@@ -100,6 +100,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/584094d3f1ad4080e90000bd/groups/6591ba710dd28c00018ba9e3">Gryffindor vs Slytherin Quidditch Game</a>
 <li><a href="https://www.codewars.com/kata/reviews/5b18eab58c63628315000936/groups/65bf6c613c564f0001e2d271">Fix string case</a>
 <li><a href="https://www.codewars.com/kata/reviews/5174a68231d5270475000005/groups/55c28ba76e128f601f0000b4">Sort Numbers</a>
+<li><a href="https://www.codewars.com/kata/reviews/555ee48d4acbe4782c0000a4/groups/58c12a3be08b7c56520012c6">Sum of the first nth term of Series</a>
 </ul> 
 </details>
 <details>

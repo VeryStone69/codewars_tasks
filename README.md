@@ -44,6 +44,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/53dc581021a252c4890000bc/groups/65bbeb11d423500001d0b535">Sum Arrays</a>
 <li><a href="https://www.codewars.com/kata/reviews/555a6958063f905e1b00001c/groups/555a8ad0ce5491d7da000011">Is it even?</a>
 <li><a href="https://www.codewars.com/kata/reviews/568d4ea6ab0a10c7210000f2/groups/61dcb23b3d226a000170f70a">Transportation on vacation</a>
+<li><a href="https://www.codewars.com/kata/reviews/523b623152af8a30c600002a/groups/57a3a51d7cb1f318900001dd">Function 2 - squaring an argument</a>
 
 </ul>
 </details>

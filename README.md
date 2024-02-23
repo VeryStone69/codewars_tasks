@@ -103,6 +103,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/5b18eab58c63628315000936/groups/65bf6c613c564f0001e2d271">Fix string case</a>
 <li><a href="https://www.codewars.com/kata/reviews/5174a68231d5270475000005/groups/55c28ba76e128f601f0000b4">Sort Numbers</a>
 <li><a href="https://www.codewars.com/kata/reviews/555ee48d4acbe4782c0000a4/groups/58c12a3be08b7c56520012c6">Sum of the first nth term of Series</a>
+<li><a href="https://www.codewars.com/kata/reviews/52f3149596de55aded000413/groups/65d83f1c7126e00001fc6cdf">Summing a number's digits</a>
 </ul> 
 </details>
 <details>

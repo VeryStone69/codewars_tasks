@@ -46,6 +46,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/568d4ea6ab0a10c7210000f2/groups/61dcb23b3d226a000170f70a">Transportation on vacation</a>
 <li><a href="https://www.codewars.com/kata/reviews/523b623152af8a30c600002a/groups/57a3a51d7cb1f318900001dd">Function 2 - squaring an argument</a>
 <li><a href="https://www.codewars.com/kata/reviews/554792a7761db25b8400015a/groups/5548ca8b90ed570574000018">Vowel remover</a>
+<li><a href="https://www.codewars.com/kata/reviews/53af2ba0bbec0e2805000976/groups/5c2c4ef77323980001faa8a2">Are You Playing Banjo?</a>
 
 </ul>
 </details>

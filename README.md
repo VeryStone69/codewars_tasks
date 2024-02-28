@@ -48,6 +48,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/554792a7761db25b8400015a/groups/5548ca8b90ed570574000018">Vowel remover</a>
 <li><a href="https://www.codewars.com/kata/reviews/53af2ba0bbec0e2805000976/groups/5c2c4ef77323980001faa8a2">Are You Playing Banjo?</a>
 <li><a href="https://www.codewars.com/kata/reviews/5720583f191358cea300004f/groups/572079c865a5042173000071">Training JS #7: if..else and ternary operator</a>
+<li><a href="https://www.codewars.com/kata/reviews/591ad33de5e7871cac0009be/groups/65def4bbde9c52000165cb82">Find Multiples of a Number</a>
 
 </ul>
 </details>

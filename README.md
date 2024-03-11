@@ -49,6 +49,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/53af2ba0bbec0e2805000976/groups/5c2c4ef77323980001faa8a2">Are You Playing Banjo?</a>
 <li><a href="https://www.codewars.com/kata/reviews/5720583f191358cea300004f/groups/572079c865a5042173000071">Training JS #7: if..else and ternary operator</a>
 <li><a href="https://www.codewars.com/kata/reviews/591ad33de5e7871cac0009be/groups/65def4bbde9c52000165cb82">Find Multiples of a Number</a>
+<li><a href="https://www.codewars.com/kata/reviews/57cc56dba362c1d44d000068/groups/57cc5ef458da9eba38001f6d">Parse nice int from char problem</a>
 
 </ul>
 </details>

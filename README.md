@@ -51,6 +51,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/591ad33de5e7871cac0009be/groups/65def4bbde9c52000165cb82">Find Multiples of a Number</a>
 <li><a href="https://www.codewars.com/kata/reviews/57cc56dba362c1d44d000068/groups/57cc5ef458da9eba38001f6d">Parse nice int from char problem</a>
 <li><a href="https://www.codewars.com/kata/reviews/55f345a06f49e9e92a000004/groups/5d6e2a05b5ed5900013cefd1">Grasshopper - Check for factor</a>
+<li><a href="https://www.codewars.com/kata/reviews/57eaeb9f78748ff92a00000b/groups/654002dddda7cc00011027c9">Sum Mixed Array</a>
 
 </ul>
 </details>

@@ -7,6 +7,30 @@ function sumMix(x){
     return sumWithInitial;
 }
 
-console.log(sumMix([9, 3, '7', '3']))
-console.log(sumMix(['5', '0', 9, 3, 2, 1, '9', 6, 7]))
-console.log(sumMix(['3', 6, 6, 0, '5', 8, 5, '6', 2,'0']))
+function testSumMix() {
+    const testCases = [
+        {input: [1, 2, 3, 4], expected: 10},
+        {input: ["1", "2", "3", "4"], expected: 10},
+        {input: [1, "2", 3, "4"], expected: 10},
+        {input: [5], expected: 5},
+        {input: ["5"], expected: 5},
+        {input: [], expected: 0},
+        {input: [-1, "-2", 3, "4"], expected: 4},
+        {input: [0, "0", 1, "1"], expected: 2},
+    ];
+
+    testCases.forEach((testCase, index) => {
+        const {input, expected} = testCase;
+        const result = sumMix(input);
+        if (result === expected) {
+            console.log(`Test ${index + 1} passed: sumMix([${input}]) === ${expected}`);
+        } else {
+            console.error(`Test ${index + 1} failed: sumMix([${input}]) expected ${expected}, but got ${result}`);
+        }
+    });
+}
+
+testSumMix();
+
+
+

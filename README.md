@@ -111,6 +111,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/555ee48d4acbe4782c0000a4/groups/58c12a3be08b7c56520012c6">Sum of the first nth term of Series</a>
 <li><a href="https://www.codewars.com/kata/reviews/52f3149596de55aded000413/groups/65d83f1c7126e00001fc6cdf">Summing a number's digits</a>
 <li><a href="https://www.codewars.com/kata/reviews/59494829a557fecd1500008d/groups/65ef0f552f98e30001825cd7">Odd or Even?</a>
+<li><a href="https://www.codewars.com/kata/reviews/545a4cd43f70b50693000091/groups/61d271b3ac83e70001a1f6fe">Find the middle element </a>
 </ul> 
 </details>
 <details>

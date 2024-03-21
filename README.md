@@ -146,6 +146,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/52c31f8e6605bcc646000085/groups/608af526f2e24100012c0b31">Two Sum</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/565349bca24428f2870000a9/groups/6584a2f21121e1000137d9a0">Find The Parity Outlier</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/52efefcbcdf57161d4000094/groups/65be274f70880500014dfa49">Count characters in your string</a></li>
+<li><a href="https://www.codewars.com/kata/reviews/57b0804926ca429ed4000054/groups/65fc761657815d00011f1bbb">The Supermarket Queue</a></li>
 </ul>
 </details>
 <details>

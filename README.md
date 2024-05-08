@@ -149,6 +149,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/565349bca24428f2870000a9/groups/6584a2f21121e1000137d9a0">Find The Parity Outlier</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/52efefcbcdf57161d4000094/groups/65be274f70880500014dfa49">Count characters in your string</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/57b0804926ca429ed4000054/groups/65fc761657815d00011f1bbb">The Supermarket Queue</a></li>
+<li><a href="https://www.codewars.com/kata/5208f99aee097e6552000148/solutions/javascript?filter=me&sort=best_practice&invalids=false">Break camelCase</a></li>
 </ul>
 </details>
 <details>

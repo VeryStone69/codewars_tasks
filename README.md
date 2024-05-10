@@ -150,7 +150,8 @@
 <li><a href="https://www.codewars.com/kata/reviews/52efefcbcdf57161d4000094/groups/65be274f70880500014dfa49">Count characters in your string</a></li>
 <li><a href="https://www.codewars.com/kata/reviews/57b0804926ca429ed4000054/groups/65fc761657815d00011f1bbb">The Supermarket Queue</a></li>
 <li><a href="https://www.codewars.com/kata/5208f99aee097e6552000148/solutions/javascript?filter=me&sort=best_practice&invalids=false">Break camelCase</a></li>
-<li><a href="">https://www.codewars.com/kata/reviews/54a5d4af37f43531e900002e/groups/663c619bcee03000016410ba</a>Detect Pangram</li>
+<li><a href="https://www.codewars.com/kata/reviews/54a5d4af37f43531e900002e/groups/663c619bcee03000016410ba"></a>Detect Pangram</li>
+<li><a href="https://www.codewars.com/kata/reviews/586c1cfca71c38d1bb0010f9/groups/586cd022e8e8d4da22000a76"></a>Grasshopper - Terminal game combat function</li>
 </ul>
 </details>
 <details>

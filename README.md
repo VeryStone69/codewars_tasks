@@ -53,6 +53,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/55f345a06f49e9e92a000004/groups/5d6e2a05b5ed5900013cefd1">Grasshopper - Check for factor</a>
 <li><a href="https://www.codewars.com/kata/reviews/57eaeb9f78748ff92a00000b/groups/654002dddda7cc00011027c9">Sum Mixed Array</a>
 <li><a href="https://www.codewars.com/kata/reviews/56b2958b461215098d000012/groups/661d6ec1daae420001bfa10d">Lario and Muigi Pipe Problem</a>
+<li><a href="https://www.codewars.com/kata/reviews/55dc99751863ea0be800000c/groups/55dd8def69990ea9b90000b9">get character from ASCII Value</a>
 
 </ul>
 </details>

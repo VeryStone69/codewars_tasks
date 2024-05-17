@@ -56,6 +56,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/55dc99751863ea0be800000c/groups/55dd8def69990ea9b90000b9">get character from ASCII Value</a>
 <li><a href="https://www.codewars.com/kata/reviews/562a718538401236fd00009e/groups/6643a61f6f50b3b17d588b6b">Grasshopper - Messi goals function</a>
 <li><a href="https://www.codewars.com/kata/reviews/5ae72fb9afcba90ca1001eee/groups/6644a8236c3a7f8c3d0ecc2f">Expressions Matter</a>
+<li><a href="https://www.codewars.com/kata/reviews/59fca8245712f9fa4700159c/groups/59fcaca4959b6698c700011f">Convert to Binary </a>
 
 </ul>
 </details>

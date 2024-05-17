@@ -119,6 +119,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/545a4cd43f70b50693000091/groups/61d271b3ac83e70001a1f6fe">Find the middle element </a>
 <li><a href="https://www.codewars.com/kata/reviews/661ae74f5f284d0001e6e11e/groups/6637f2efc9b8a80001a7487f">Sum it continuously</a>
 <li><a href="https://www.codewars.com/kata/reviews/59cfec5f70eeca2cba0004ca/groups/66464724df1c104d18dd4985">Alternate capitalization</a>
+<li><a href="https://www.codewars.com/kata/reviews/51f2b4448cadf20ed0000389/groups/524a64bae40453a32a000131">Remove anchor from URL </a>
 </ul> 
 </details>
 <details>

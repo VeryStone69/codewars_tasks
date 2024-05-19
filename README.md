@@ -58,6 +58,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/5ae72fb9afcba90ca1001eee/groups/6644a8236c3a7f8c3d0ecc2f">Expressions Matter</a>
 <li><a href="https://www.codewars.com/kata/reviews/59fca8245712f9fa4700159c/groups/59fcaca4959b6698c700011f">Convert to Binary </a>
 <li><a href="https://www.codewars.com/kata/reviews/5dfd61978c89df0001a528fa/groups/5dfe1afabb26620001b014ca">What is between?</a>
+<li><a href="https://www.codewars.com/kata/reviews/55dcc0930e6d3129500000ac/groups/6649abe6c2e4c60a64b70e00">Grasshopper - Array Mean</a>
 
 </ul>
 </details>

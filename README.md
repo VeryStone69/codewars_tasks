@@ -122,6 +122,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/661ae74f5f284d0001e6e11e/groups/6637f2efc9b8a80001a7487f">Sum it continuously</a>
 <li><a href="https://www.codewars.com/kata/reviews/59cfec5f70eeca2cba0004ca/groups/66464724df1c104d18dd4985">Alternate capitalization</a>
 <li><a href="https://www.codewars.com/kata/reviews/51f2b4448cadf20ed0000389/groups/524a64bae40453a32a000131">Remove anchor from URL </a>
+<li><a href="https://www.codewars.com/kata/reviews/57ea5b2a1af4c545d0000056/groups/57ea67acf330e298460000aa">Sort array by string length</a>
 </ul> 
 </details>
 <details>

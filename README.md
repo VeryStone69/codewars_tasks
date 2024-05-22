@@ -60,6 +60,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/5dfd61978c89df0001a528fa/groups/5dfe1afabb26620001b014ca">What is between?</a>
 <li><a href="https://www.codewars.com/kata/reviews/55dcc0930e6d3129500000ac/groups/6649abe6c2e4c60a64b70e00">Grasshopper - Array Mean</a>
 <li><a href="https://www.codewars.com/kata/reviews/57f277426486746cb5000009/groups/664cdaf41f0b7df79b01b3f0">I love you, a little , a lot, passionately ... not at all</a>
+<li><a href="https://www.codewars.com/kata/reviews/524f5125ad9c12894e000042/groups/6212993843952d000194f347">Find the Remainder</a>
 
 </ul>
 </details>

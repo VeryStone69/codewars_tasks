@@ -132,6 +132,7 @@
 <li><a href="https://www.codewars.com/kata/reviews/5431522b7f883c96a500012e/groups/64d3a0c18962e200019b498e">Count the divisors of a number</a>
 <li><a href="https://www.codewars.com/kata/reviews/55d3019e2113c3a98600009a/groups/55d3e467202d0e6889000091">Round up to the next multiple of 5</a>
 <li><a href="https://www.codewars.com/kata/reviews/55d3019e2113c3a98600009a/groups/55d3e467202d0e6889000091">Anagram Detection</a>
+<li><a href="https://www.codewars.com/kata/reviews/599a65acfe16727bf9000d55/groups/65df6a0d2a228c0001f2f7a5">Factorial</a>
 </ul> 
 </details>
 <details>

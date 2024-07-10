@@ -182,5 +182,6 @@
 <li><a href="https://www.codewars.com/kata/reviews/52bc74d4ac05d0945d000551/groups/6486330de253810001125392">First non-repeating character</a>
 <li><a href="https://www.codewars.com/kata/reviews/550be338742fda753e000a03/groups/654caa75d1682a000191527c">Rot13</a>
 <li><a href="https://www.codewars.com/kata/reviews/525f3eda17c7cd9f9e000b3c/groups/65c295569b585b0001c7a162">Calculating with Functions</a>
+<li><a href="https://www.codewars.com/kata/reviews/54a91a5283a7de5d7800009e/groups/668ed3cdf2688372ede739e9">String incrementer</a>
 </ul>
 </details>
